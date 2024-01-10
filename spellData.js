@@ -1,0 +1,161 @@
+// spellData.js
+const spellData = {
+  'Arcane Lock': { 
+    components: '',
+    cost: '',
+    costcons: 25,
+    consumables: 'Gold dust',
+  },
+  'Astral Projection': { 
+    components: '1 jacinth; 1 ornately carved bar of silver (each target)',
+    cost: '',
+    costcons: 1100,
+    consumables: '',
+  },
+  'Augury': { 
+    components: 'Sticks, bones, or other divination tokens',
+    cost: '',
+    costcons: 25,
+    consumables: '',
+  },
+  'Awaken': { 
+    components: '',
+    cost: '',
+    costcons: 1000,
+    consumables: 'Agate',
+  },
+  'Ceremony': { 
+    components: 'Powdered silver',
+    cost: '',
+    costcons: 25,
+    consumables: '',
+  },
+  'Chromatic Orb': { 
+    components: 'Single diamond',
+    cost: 50,
+    costcons: '',
+    consumables: '',
+  },
+  'Circle of Death': { 
+    components: 'Crushed black pearl powder',
+    cost: 500,
+    costcons: '',
+    consumables: '',
+  },
+  'Clairvoyance': { 
+    components: 'Glass eye (seeing) or jeweled horn (hearing)',
+    cost: 100,
+    costcons: '',
+    consumables: '',
+  },
+  'Clone': { 
+    components: 'Urn, coffin, mud-filled cyst, or crystal container',
+    cost: 2000,
+    costcons: 1000,
+    consumables: 'Single diamond',
+  },
+  'Contingency': { 
+    components: 'Statuette of self, ivory and gems',
+    cost: 1500,
+    costcons: '',
+    consumables: '',
+  },
+  'Continual Flame': { 
+    components: '',
+    cost: '',
+    costcons: 50,
+    consumables: 'Ruby',
+  },
+  'Create Homunculus': { 
+    components: 'Jewel-encrusted dagger',
+    cost: 1000,
+    costcons: '',
+    consumables: '',
+  },
+  'Create Undead': { 
+    components: '1 black onyx stone for each corpse',
+    cost: 150,
+    costcons: '',
+    consumables: '',
+  },
+  "D's Instant Summons": { 
+    components: 'Sapphire',
+    cost: 1000,
+    costcons: '',
+    consumables: '',
+  },
+  'Dawn': { 
+    components: 'Sunburst pendant',
+    cost: 100,
+    costcons: '',
+    consumables: '',
+  },
+  'Divination': { 
+    components: '',
+    cost: '',
+    costcons: 25,
+    consumables: 'Incense and a sacrifical offering',
+  },
+  'Druid Grove': { 
+    components: '',
+    cost: '',
+    costcons: 1000,
+    consumables: '"Mistletoe harvested by golden sickle under light of full moon"',
+  },
+  'Find Familiar': { 
+    components: '',
+    cost: 10,
+    costcons: '',
+    consumables: 'Charcoal, incense, herbs',
+  },
+  'Find the Path': { 
+    components: 'Divination tools (bones, ivory sticks, cards, teeth)',
+    cost: 100,
+    costcons: '',
+    consumables: '',
+  },
+  'Forbiddance': { 
+    components: 'Holy water, rare incense, powdered ruby',
+    cost: 1000,
+    costcons: '',
+    consumables: '',
+  },
+  'Force Cage': { 
+    components: 'Ruby dust',
+    cost: 1500,
+    costcons: '',
+    consumables: '',
+  },
+  'Gate': { 
+    components: 'Single diamond',
+    cost: 5000,
+    costcons: '',
+    consumables: '',
+  },
+  'Glyph of Warding': { 
+    components: 'Powdered diamond',
+    cost: 200,
+    costcons: '',
+    consumables: '',
+  },
+  'Greater Restoration': { 
+    components: 'Diamond dust',
+    cost: 100,
+    costcons: '',
+    consumables: '',
+  },
+  'Guards and Wards': { 
+    components: 'Small silver rod',
+    cost: 10,
+    costcons: '',
+    consumables: '',
+  },
+  'Hallow': { 
+    components: 'Herbs, oils, and incense',
+    cost: 1000,
+    costcons: '',
+    consumables: '',
+  },
+};
+
+module.exports = spellData;
