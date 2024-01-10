@@ -73,6 +73,3 @@ client.on('ready', () => {
 });
 
 console.log('Attempting to log in to Discord');
-
-// Replace 'YOUR_BOT_TOKEN' with your actual bot token
-client.login('MTE5NDAzMjc0MzU1NDc2NDkwMQ.GFMqXV.5tYpjBYDNgtqQJfDTU6ySpWqVEyZkKXo8SOJHI');
